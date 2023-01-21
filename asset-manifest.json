@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GyaanVandar/static/css/main.59e63e79.css",
+    "main.js": "/GyaanVandar/static/js/main.092a0698.js",
+    "index.html": "/GyaanVandar/index.html",
+    "main.59e63e79.css.map": "/GyaanVandar/static/css/main.59e63e79.css.map",
+    "main.092a0698.js.map": "/GyaanVandar/static/js/main.092a0698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59e63e79.css",
+    "static/js/main.092a0698.js"
+  ]
+}
